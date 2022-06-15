@@ -1,0 +1,35 @@
+main{
+    margin:0 auto;
+    width: 900px;
+    height: 912px;
+}
+.section-cv{
+    float:left;
+    width: 810px;
+}
+.section-photo{
+    float: right;
+    margin: 10px 0 0 0;
+}
+h2{
+    color:orange;
+}
+main div{
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 10px;
+}
+footer{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: gray;
+}
+header{
+    background-color: gray;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
